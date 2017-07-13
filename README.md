@@ -1,0 +1,2 @@
+# amulet
+A scratch project
